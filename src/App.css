@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+/*
+container ın altındaki div düzenlemesi
+*/
+.generator{
+  
+  background-image: linear-gradient(-225deg, #850E35 0%, #FFC4C4 100%);
+  border-radius: 25px;
+  box-shadow: 0px 2px 10px #472D2D;
+  padding: 50px;
+}
+/*
+Password Generator basligi düzenleme
+*/
+.generator_header{
+  text-align: center;
+  color: #FFF5E4;
+  margin-bottom: 15px;
+}
+/*
+olusan sifre kısmı
+*/
+.generator_password{
+  background-color:#AC7088;
+  background-image: linear-gradient(-225deg, #FFC4C4 0%, #850E35 100%);
+  border-radius: 25px;
+  padding: 13px 10px;
+  color: #850E35;
+  margin-bottom: 15px;
+  height:50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.copy_btn{
+  color: #fff;
+  background: #FFC4C4;
+  border: none;
+  cursor: pointer;
+}
+.generator_btn{
+  background: #FF7396;
+  border: none;
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px;
+  color: #fff;
+  border-radius: 30px;
+  font-size: 17px;
+  cursor: pointer;
+
+}
+.form-group{
+  display: flex;
+  justify-content: space-between;
+  color: #FFE6E6;
+  margin-bottom: 12px;
+}
