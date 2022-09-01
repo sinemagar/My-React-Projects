@@ -1,4 +1,7 @@
 # Password Generator
+
+[Live](https://password-generate-app.netlify.app/)
+
 I explain the project in detail in the code
 <br/>
 <img src = "https://i.hizliresim.com/59t5if2.png"/>
