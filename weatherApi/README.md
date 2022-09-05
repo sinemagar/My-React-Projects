@@ -1,3 +1,16 @@
+# Password Generator
+
+[Live](https://password-generate-app.netlify.app/)
+
+I explain the project in detail in the code
+<br/>
+<img src = "https://i.hizliresim.com/59t5if2.png"/>
+<br/>
+<img src = "https://i.hizliresim.com/4dnmk8g.png"/>
+
+
+<hr/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
