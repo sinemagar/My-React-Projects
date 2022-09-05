@@ -9,7 +9,7 @@
 
 <hr/>
 
-2. [Weather API ](https://github.com/sinemagar/My-React-Projects/tree/master/weatherApi)  
+2. [Weather API ](https://github.com/sinemagar/My-React-Projects/tree/master/passwordGenerator)  
 <br/>
 
 ### APP
