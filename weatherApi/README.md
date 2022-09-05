@@ -1,12 +1,15 @@
+
+
+
 # Password Generator
 
-[Live](https://password-generate-app.netlify.app/)
+
 
 I explain the project in detail in the code
 <br/>
-<img src = "https://i.hizliresim.com/59t5if2.png"/>
+<img src = "https://i.hizliresim.com/f48p148.gif"/>
 <br/>
-<img src = "https://i.hizliresim.com/4dnmk8g.png"/>
+
 
 
 <hr/>
@@ -81,3 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# My-React-Projects
