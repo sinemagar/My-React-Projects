@@ -7,16 +7,14 @@
 <br/>
 <img src = "https://i.hizliresim.com/59t5if2.png"/>
 
+<hr/>
 
+2. [Weather API ](https://github.com/sinemagar/My-React-Projects/tree/master/weatherApi)  
+<br/>
 
 ### APP
 <img src = "https://i.hizliresim.com/f48p148.gif"/>
 
 ### WEB
 
-2. [Weather API ](https://github.com/sinemagar/My-React-Projects/tree/master/weatherApi)  
-<br/>
-<br/>
-<img src = "https://i.hizliresim.com/59t5if2.png"/>
-
-more projects to come
+more projects to come...
