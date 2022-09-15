@@ -26,6 +26,6 @@ In the project directory, you can run for Frontend:
 
 In the project directory, you can run for Backend/api:
 
-cd /api`
+`cd /api`
 
 ### `npm start`
