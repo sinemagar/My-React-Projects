@@ -7,4 +7,14 @@
 <br/>
 <img src = "https://i.hizliresim.com/59t5if2.png"/>
 
-more projects to come
+<hr/>
+
+2. [Weather API ](https://github.com/sinemagar/My-React-Projects/tree/master/passwordGenerator)  
+<br/>
+
+### APP
+<img src = "https://i.hizliresim.com/f48p148.gif"/>
+
+### WEB
+
+more projects to come...
