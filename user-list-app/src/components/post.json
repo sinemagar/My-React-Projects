@@ -2,57 +2,78 @@
   {
     "userId": 1,
     "id": 1,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "new",
+    "date": "17 November 2022",
+    "people": [
+      "https://cdn.hswstatic.com/gif/play/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg",
+      "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=7lrLYx-B",
+      "https://cdn.shopify.com/s/files/1/0850/2114/files/tips_to_help_heighten_senses_480x480.png?v=1624399167"
+    ],
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 2,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "new",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 3,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "new",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 4,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "past",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 5,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "past",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 6,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "past",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 7,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "new",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   },
   {
     "userId": 1,
     "id": 8,
+    "name": "Devfest Duzce",
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "category": "new",
+    "date": "17 November 2022",
     "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   }
 ]
